@@ -1,0 +1,10 @@
+		Goals
+1. Bare metal performance
+2. Scalability - Run on a potato, paint on a monster
+3. Adaptability - Separate GE and game; so that other games can be created quickly
+4. FOSS
+5. Extensibility - Plugins, API, etc
+6. Game programmability and scriptability
+7. Moddability - No obfuscation of GE or game entities in mem management, etc.
+8. integrate AI, latest neural nets. <3
+
